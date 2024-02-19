@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: MastodonX
+Upstream-Contact: Ben Lewis <oss@benjilewis.dev>
+Source: https://github.com/benjisoft/MastodonX
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...

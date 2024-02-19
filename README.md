@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: (C) 2024 Ben Lewis <oss@benjilewis.dev>
+
+SPDX-License-Identifier: SSPL-1.0
+-->
+
 # MastodonX
 Syncs tweets from Mastodon to Twitter
 

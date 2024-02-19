@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "masto": "^6.5.2",
+    "string-strip-html": "^13.4.6",
+    "twitter-api-v2": "^1.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  },
+  "name": "mastodon-x",
+  "description": "Syncs tweets from Mastodon to Twitter",
+  "version": "1.0.0",
+  "main": "dist/index.ts",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjisoft/MastodonX.git"
+  },
+  "keywords": [
+    "mastodon",
+    "twitter",
+    "x"
+  ],
+  "author": "Ben Lewis",
+  "license": "SSPL-1.0",
+  "bugs": {
+    "url": "https://github.com/benjisoft/MastodonX/issues"
+  },
+  "homepage": "https://github.com/benjisoft/MastodonX#readme",
+  "type": "module"
+}
